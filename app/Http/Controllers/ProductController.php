@@ -78,4 +78,9 @@ class ProductController  extends Controller
         DB::table('product')->where('id', $req->idPro)->update($data);
         return redirect()->route('product.listProduct');
     }
+
+
+    public function test() {
+        return view('admin/products/list-product');
+    }
 }
