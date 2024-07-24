@@ -3,7 +3,6 @@
         <span>Shoppe</span>
         <span>Quản lý sản phẩm</span>
     </h3>
-
     <div class="dropdown">
         <img class="dropdown-toggle" src="assets/image/avatar.jpg" alt="" id="dropdownMenuButton1"
             data-bs-toggle="dropdown">
